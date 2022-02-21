@@ -1,0 +1,9 @@
+setup.py
+scripts/toto_783-run
+toto_783/__init__.py
+toto_783/lib.py
+toto_783.egg-info/PKG-INFO
+toto_783.egg-info/SOURCES.txt
+toto_783.egg-info/dependency_links.txt
+toto_783.egg-info/requires.txt
+toto_783.egg-info/top_level.txt
